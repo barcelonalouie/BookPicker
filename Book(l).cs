@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BOOKSELECTOR_C_O
+namespace BookPicker
 {
     internal class Book
     {
